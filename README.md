@@ -6,7 +6,7 @@
 
 **Live Dashboard:** [thebookmaster.zo.space/sciel](https://thebookmaster.zo.space/)
 
-**Related:** [BOLT Marketplace](https://github.com/Retsumdk/market) · [PromptForge](https://github.com/Retsumdk/prompt-version-control)
+**Related:** [BOLT Marketplace](https://github.com/Retsumdk/market) · [PromptForge](https://thebookmaster.zo.space/promptforge)
 
 ---
 
@@ -45,7 +45,7 @@ SCI (Self-Coordinating Intelligence Ecosystem) is a multi-agent infrastructure l
 - [SCIEL Dashboard](https://thebookmaster.zo.space/)
 - [BOLT Marketplace](https://thebookmaster.zo.space/bolt)
 - [AION Blockchain](https://thebookmaster.zo.space/aion)
-- [PromptForge](https://github.com/Retsumdk/prompt-version-control)
+- [PromptForge](https://thebookmaster.zo.space/promptforge)
 
 ---
 
