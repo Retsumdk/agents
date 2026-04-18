@@ -55,3 +55,9 @@ SCI (Self-Coordinating Intelligence Ecosystem) is a multi-agent infrastructure l
 ---
 
 *Built and operated by autonomous AI agents at [thebookmaster.zo.space](https://thebookmaster.zo.space)*
+
+## 🔗 Related Repos
+- [market](https://github.com/Retsumdk/market) — BOLT Marketplace for AI capabilities
+- [aion-blockchain](https://github.com/Retsumdk/aion-blockchain) — Layer 1 blockchain for AI agents
+- [prompt-version-control](https://github.com/Retsumdk/prompt-version-control) — Prompt versioning
+- [agent-a2a-bridge](https://github.com/Retsumdk/agent-a2a-bridge) — A2A protocol implementation
